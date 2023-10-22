@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.18c476ba.css",
-    "main.js": "/static/js/main.c9e85c2c.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/hooBank.png": "/static/media/hooBank.c6993c02a9c73f2ce2e2.png",
-    "static/media/gpt.png": "/static/media/gpt.e76d3dbfda71fde769a5.png",
-    "static/media/cyportfolio.png": "/static/media/cyportfolio.ae17e77a32eca00e879b.png",
-    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/logo.png": "/static/media/logo.66e2e415496f86f1bacb.png",
-    "static/media/unsplash.png": "/static/media/unsplash.db12831d56e4886a349f.png",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/Elijah_Barnes_-_Web_Developer.pdf": "/static/media/Elijah_Barnes_-_Web_Developer.de6605f3d6fc94dcef09.pdf",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
-    "main.c9e85c2c.js.map": "/static/js/main.c9e85c2c.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.4e558664.css",
+    "main.js": "/Portfolio/static/js/main.7ecde177.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hooBank.png": "/Portfolio/static/media/hooBank.c6993c02a9c73f2ce2e2.png",
+    "static/media/gpt.png": "/Portfolio/static/media/gpt.e76d3dbfda71fde769a5.png",
+    "static/media/cyportfolio.png": "/Portfolio/static/media/cyportfolio.ae17e77a32eca00e879b.png",
+    "static/media/blog.png": "/Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.66e2e415496f86f1bacb.png",
+    "static/media/unsplash.png": "/Portfolio/static/media/unsplash.db12831d56e4886a349f.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Elijah_Barnes_-_Web_Developer.pdf": "/Portfolio/static/media/Elijah_Barnes_-_Web_Developer.de6605f3d6fc94dcef09.pdf",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
+    "main.7ecde177.js.map": "/Portfolio/static/js/main.7ecde177.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18c476ba.css",
-    "static/js/main.c9e85c2c.js"
+    "static/css/main.4e558664.css",
+    "static/js/main.7ecde177.js"
   ]
 }
