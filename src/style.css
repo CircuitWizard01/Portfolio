@@ -529,16 +529,6 @@ button:focus {
   overflow: hidden !important;
   transition: all 0.4s ease 0s !important;
 }
-
-    
-        
-          
-    
-
-        
-        Expand All
-    
-    @@ -574,30 +589,33 @@ button:focus {
   
 @media (max-width: 767px) {
   .tech-icons {
